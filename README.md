@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vy</h1>
 <h3 align="center">A passionate Full stack developer based in Ottawa, ON, Canada</h3>
 
-- 🌱 I’m currently learning **React** by developing a Dashboard using MERN stack (MongoDB, ExpressJS, React, NodeJS)
+- 🌱 I’m currently learning **React** by developing a Personal Finance Management application using MERN stack (MongoDB, ExpressJS, React, NodeJS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vytran1805](https://github.com/vytran1805)
 
-- 💬 Ask me about **Java, React, MySQL**
+- 💬 Ask me about **Java, JavaScript, React, MySQL, MongoDB**
 
 - 📫 How to reach me **vytran1805@gmail.com**
 
-- 📄 Know about my experiences [https://vytr.me](https://vytr.me)
+- 📄 My portfolio [https://vytr.me](https://vytr.me)
 
-- ⚡ Fun fact: **I am a professional baker!**
+- ⚡ Fun fact: **I used to be a professional baker!**
 
 <p align="left">
 </p>
