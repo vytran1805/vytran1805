@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vy</h1>
-<h3 align="center">A passionate Full stack developer based in Ottawa, ON, Canada</h3>
+<h3 align="center">A passionate Software developer based in Ottawa, ON, Canada</h3>
 
-- 🌱 I’m currently learning **React** and **TypeScript** by developing a Personal Finance Management application using MERN stack (MongoDB, ExpressJS, React, NodeJS)
+- 🌱 I’m currently learning **React** and **TypeScript** by developing a Personal Financial Management application using MERN stack (MongoDB, ExpressJS, React, NodeJS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vytran1805](https://github.com/vytran1805)
 
